@@ -1,0 +1,39 @@
+﻿﻿table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+tr:nth-child(even) {
+    backgorund-color: #808080;
+}
+
+button {
+    background-color: fuchsia;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+    button:hover {
+        backgorund-color: #808080;
+        text-decoration: none;
+    }
