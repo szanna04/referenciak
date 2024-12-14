@@ -49,7 +49,7 @@ A szűréskor lehetőségünk van kiválasztani a listboxban megjelenő adatokat
 ## ASP .NET
 - 1x2p program.cs beállítása wwwroot mappában tárolt statikus tartalmak megosztására<br>
 A solution explorerben látszik a wwwroot mappa létrehozása, a benne található fájlok, valamint a képernyő jobb oldalán a Program.cs fájl, ahol lehetővé tettem a statikus tartalmak megosztását.
-  ![image](https://github.com/user-attachments/assets/6fa606f0-39ce-4942-a968-a56169befd87)
+  ![root](https://github.com/user-attachments/assets/b4f1377b-64d0-477a-bc78-f611fea4f768)
 #### *Részpontszám: 2p*
 ### API végpontok
 - 1x3p Teljes SQL tábla adatainak szolgáltatása API végponton keresztül
