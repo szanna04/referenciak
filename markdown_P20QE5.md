@@ -4,7 +4,8 @@ Neptun: P20QE5<br>
 *Megjegyzések: A Githubra feltöltött, majd klónozott repository-ban lévő solutionre verziókezelési hibát jelzett a VS, azonban a Moodleben lévő tömörített fájl akadályok nélkül lefutott. Ezenkívül a monitor felnagyítása a Windows Forms-ban megjelenítési gondokat okozott, amely kiküszöbölésére a tesztelés közben került sor, így a képernyőképeken látható méretkülönbségek ennek köszönhetőek.*
 
 **Projekt leírása:**<br>
-A projektem egy filmadabázis kezelésének megkönnyítésére szolgál. A Windows Forms alkalmazásban lehetőség van a filmek szűrésére különböző paraméterek alapján. Ezenkívül a legfontosabb adatok kiemelésre kerültek textboxok segítségével. Az alkalmazáshoz tartozik egy API, amely lehetővé teszi az összes film megjelenítését, egy film 2 paraméterének módosítását, egy film lekérését egy adott argumentum alapján, illetve törlést az azonosító alapján. Továbbá létrehoztam egy weboldalt is, ahol egy gombnyomással megjeleníthetők a filmek, és lehetőség van új filmek hozzáadására az adatbázishoz.
+A projektem egy filmadabázis kezelésének megkönnyítésére szolgál. A Windows Forms alkalmazásban lehetőség van a filmek szűrésére különböző paraméterek alapján. Ezenkívül a legfontosabb adatok kiemelésre kerültek textboxok segítségével. Az alkalmazáshoz tartozik egy API, amely lehetővé teszi az összes film megjelenítését, egy film 2 paraméterének módosítását, egy film lekérését egy adott argumentum alapján, illetve törlést az azonosító alapján. Továbbá létrehoztam egy weboldalt is, ahol egy gombnyomással megjeleníthetők a filmek, és lehetőség van új filmek hozzáadására az adatbázishoz. <br>
+
 **Hozott anyagok:**<br>
   A hozott anyagaim közé tartozik egy, az órán is használt adatbázis scaffoldja. Ezenkívül a weboldalhoz előre elkészített js fájl, valamint egy útmutatást adó markdown a feladat lehetséges megoldásáról.
   ![hozott](https://github.com/user-attachments/assets/103ff0ba-977c-44ae-a9c3-819582020a99)
